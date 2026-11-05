@@ -5,7 +5,8 @@ Independent presentation module skeleton for **Activity Comments**. Intended bou
 **Status: skeleton.** This repository supplies package/build structure and an explicit extension entry. It is not a completed feature, production API integration or registry publication. Existing implementations and package identities remain authoritative.
 
 - Capability/source key: `liberusoftware/activity-comments`.
-- Canonical plan: [Activity Comments](https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/nextjs/activity-comments.md).
+- Presentation scope: [Activity Comments](https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/react/activity-comments.md).
+- Canonical ownership record: [source/plan group](https://github.com/liberusoftware/documentation/blob/main/projects/boilerplate/nextjs/activity-comments.md).
 - Registry identity: `@liberusoftware/module-activity-comments-react-inertia`.
 - Foundation: [module-boilerplate-react-inertia](https://github.com/liberusoftware/module-boilerplate-react-inertia) at `5a2d7f53327e9648efd68af033e1876ce1cf20f0`.
 
