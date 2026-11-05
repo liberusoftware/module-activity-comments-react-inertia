@@ -1,0 +1,24 @@
+{
+  "repository": "module-activity-comments-react-inertia",
+  "capabilityKey": "liberusoftware/activity-comments",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-activity-comments-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/boilerplate/nextjs/activity-comments.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}
